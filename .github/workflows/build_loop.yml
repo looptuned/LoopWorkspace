@@ -287,7 +287,8 @@ jobs:
           basal_lock \
           negative_insulin \
           bolus_display \
-          live_activity
+          live_activity \
+          g7_scan
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
