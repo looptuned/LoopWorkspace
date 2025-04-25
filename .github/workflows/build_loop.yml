@@ -293,7 +293,6 @@ jobs:
           profiles \
           basal_lock \
           negative_insulin \
-          bolus_display \
           live_activity
 
           # the final customization listed above CANNOT have a continuation character
